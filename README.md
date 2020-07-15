@@ -3,7 +3,7 @@ A Chrome Extension for personal use
 
 ## Install the Extension
 1. Download the repo folder
-2. Chrome > More Tools > Extensions
+2. Chrome > Click the more button > More Tools > Extensions
 3. Toggle Developer Mode
 4. Load Unpacked Extension
 5. Choose the downloaded repo folder
